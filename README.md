@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intelligent Network Self-Healing Simulator
 
 A complete, interactive network simulator that monitors a virtual network, detects link failures, router failures, and congestion, calculates alternative routes, and automatically restores traffic flow. Built as a Computer Science Engineering demonstration project covering Operating Systems, Computer Networks, and AI/ML concepts.
@@ -143,3 +144,6 @@ Tests cover: Dijkstra on a known graph, adaptive vs. shortest routing under cong
 - ML evaluation metrics are in-sample when using synthetic data; use a held-out set for unbiased accuracy.
 - Recovery time measures simulated route recomputation, not real wall-clock time.
 - The simulation engine runs in the browser; there is no separate Python backend in this deployment. A Python/FastAPI backend structure is described in the original project specification and can be added if server-side processing is required.
+=======
+# CN_PROJECT
+>>>>>>> bfcebb8508a6e0aad904db3db83e13346fc1aa51
