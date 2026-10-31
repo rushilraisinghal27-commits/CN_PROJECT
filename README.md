@@ -138,6 +138,13 @@ npm run test
 Tests cover: Dijkstra on a known graph, adaptive vs. shortest routing under congestion, failed link/router detection, automatic rerouting, no-alternate-route disconnection, restoration recovery, congestion threshold detection, traffic overload, metric calculations, invalid graph modifications, API error handling, ML prediction with a trained model, ML fallback, and CSV/event persistence.
 
 <img width="503" height="553" alt="Screenshot 2026-10-31 at 11 04 25 PM" src="https://github.com/user-attachments/assets/b7aa1224-a0bb-4420-8ca4-60ea6c960a40" />
+<img width="503" height="601" alt="Screenshot 2026-10-31 at 11 07 58 PM" src="https://github.com/user-attachments/assets/1188fde2-06eb-4f10-949b-6357e25bf592" />
+<img width="1667" height="832" alt="Screenshot 2026-10-31 at 11 09 10 PM" src="https://github.com/user-attachments/assets/fd43d6c0-b731-458a-9e27-11ed5b394a9a" />
+<img width="1607" height="800" alt="Screenshot 2026-10-31 at 11 10 05 PM" src="https://github.com/user-attachments/assets/f8ac650d-8a2d-4414-b148-17b885a6ca03" />
+<img width="1618" height="793" alt="Screenshot 2026-10-31 at 11 09 36 PM" src="https://github.com/user-attachments/assets/c6216bff-8936-4713-8f16-984984b80be3" />
+
+
+
 
 ## Known limitations
 
